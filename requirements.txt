@@ -1,0 +1,5 @@
+python-pptx
+matplotlib
+Pillow
+openpyxl
+flask
