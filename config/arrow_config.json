@@ -1,0 +1,206 @@
+{
+    "Overall Length (mm)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.05,
+                0.85
+            ],
+            "end": [
+                0.95,
+                0.85
+            ],
+            "label": "Overall Length",
+            "color": "#E31937"
+        }
+    },
+    "Overall Width (mm)": {
+        "view_type": "front_view",
+        "side_view": {
+            "start": [
+                0.35,
+                0.7
+            ],
+            "end": [
+                0.65,
+                0.7
+            ],
+            "label": "Overall Width",
+            "color": "#2F5496"
+        },
+        "front_view": {
+            "start": [
+                0.14394627658900164,
+                0.9385749385749386
+            ],
+            "end": [
+                0.8527569296757114,
+                0.9459459459459458
+            ],
+            "label": "Overall Width",
+            "color": "#2f5496"
+        }
+    },
+    "Overall Height (mm)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.5,
+                0.08
+            ],
+            "end": [
+                0.5,
+                0.88
+            ],
+            "label": "Overall Height",
+            "color": "#E31937"
+        }
+    },
+    "Wheelbase (mm)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.18,
+                0.8
+            ],
+            "end": [
+                0.78,
+                0.8
+            ],
+            "label": "Wheelbase",
+            "color": "#2F5496"
+        }
+    },
+    "Ground Clearance (mm)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.45,
+                0.88
+            ],
+            "end": [
+                0.45,
+                0.95
+            ],
+            "label": "Ground Clearance",
+            "color": "#E31937"
+        }
+    },
+    "Boot Space (liters)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.78,
+                0.3
+            ],
+            "end": [
+                0.95,
+                0.65
+            ],
+            "label": "Boot Space",
+            "color": "#2F5496"
+        }
+    },
+    "Kerb Weight (kg)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.3,
+                0.5
+            ],
+            "end": [
+                0.7,
+                0.5
+            ],
+            "label": "Kerb Weight",
+            "color": "#E31937"
+        }
+    },
+    "Fuel Tank Capacity (liters)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.55,
+                0.6
+            ],
+            "end": [
+                0.75,
+                0.75
+            ],
+            "label": "Fuel Tank",
+            "color": "#2F5496"
+        }
+    },
+    "Seating Capacity (persons)": {
+        "view_type": "top_view",
+        "side_view": {
+            "start": [
+                0.2,
+                0.25
+            ],
+            "end": [
+                0.75,
+                0.25
+            ],
+            "label": "Seating Capacity",
+            "color": "#E31937"
+        },
+        "top_view": {
+            "start": [
+                0.41263496601489386,
+                0.8329238329238329
+            ],
+            "end": [
+                0.7373691489406655,
+                0.8304668304668305
+            ],
+            "label": "Seating Capacity",
+            "color": "#e31937"
+        }
+    },
+    "Turning Radius (meters)": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.1,
+                0.75
+            ],
+            "end": [
+                0.5,
+                0.4
+            ],
+            "label": "Turning Radius",
+            "color": "#2F5496"
+        }
+    },
+    "new random maetric": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.22607913120187445,
+                0.2958188731532846
+            ],
+            "end": [
+                0.6307553901946802,
+                0.1862563220775849
+            ],
+            "label": "new random maetric",
+            "color": "#e31937"
+        }
+    },
+    "new random": {
+        "view_type": "side_view",
+        "side_view": {
+            "start": [
+                0.09873834173710638,
+                0.33316951067500383
+            ],
+            "end": [
+                0.8104772217587483,
+                0.29385747136296453
+            ],
+            "label": "new random",
+            "color": "#e31937"
+        }
+    }
+}
